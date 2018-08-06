@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Services1</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="random_number">Random Number</string>
+</resources>
